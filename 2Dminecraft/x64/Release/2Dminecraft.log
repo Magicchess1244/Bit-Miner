@@ -1,0 +1,45 @@
+﻿  BiomeBuilder.cpp
+C:\Users\pumu\source\repos\2Dminecraft\BiomeBuilder.cpp(19,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\BiomeBuilder.cpp(20,38): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  Chunk.cpp
+C:\Users\pumu\source\repos\2Dminecraft\Chunk.cpp(30,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Chunk.cpp(55,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Chunk.cpp(55,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ChunkManager.cpp
+C:\Users\pumu\source\repos\2Dminecraft\ChunkManager.cpp(66,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\ChunkManager.cpp(67,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(37,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(49,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(58,47): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(58,47): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(58,77): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(58,77): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(58,90): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(58,90): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(58,111): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(58,111): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Main.cpp(169,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PerlinNoise.cpp
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(22,40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(38,20): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(38,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(38,68): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(38,68): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(39,20): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(39,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(39,72): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(39,72): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(40,20): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(40,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(40,72): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(40,72): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(41,20): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(41,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(41,76): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\pumu\source\repos\2Dminecraft\PerlinNoise.cpp(41,76): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 162 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  2Dminecraft.vcxproj -> C:\Users\pumu\source\repos\2Dminecraft\x64\Release\2Dminecraft.exe

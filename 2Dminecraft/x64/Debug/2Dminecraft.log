@@ -1,0 +1,10 @@
+﻿  Chunk.cpp
+C:\Users\pumu\source\repos\2Dminecraft\BiomeBuilder.h(51,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Chunk.cpp')
+  
+C:\Users\pumu\source\repos\2Dminecraft\Chunk.cpp(27,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Chunk.cpp(27,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Chunk.cpp(29,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Chunk.cpp(68,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pumu\source\repos\2Dminecraft\Chunk.cpp(68,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  2Dminecraft.vcxproj -> C:\Users\pumu\source\repos\2Dminecraft\x64\Debug\2Dminecraft.exe
